@@ -35,13 +35,13 @@ The sales performance was filtered to show the top 10 perfoming states.
 
 ![image](https://github.com/dianeanalyst/Excel-Project-on-US-Superstore-Data/assets/120665115/b1df1021-a334-47b2-aa23-fc7911a2a0b0)
 
-It is note worthy that visualising data will make it more understandable to even those who did not directly work with it. Thus, I made pivot charts to visualixe the pivot tables above. These are in the following figures.
+It is note worthy that visualising data will make it more understandable to even those who did not directly work with it. Thus, I made pivot charts to visualize the pivot tables above. These are in the following figures.
 
 ![image](https://github.com/dianeanalyst/Excel-Project-on-US-Superstore-Data/assets/120665115/5a8e4ac1-a36e-4d81-9de4-96133f73618a)
 
 ![image](https://github.com/dianeanalyst/Excel-Project-on-US-Superstore-Data/assets/120665115/dabd4a54-a924-4b87-8e95-51fb0f663b45)
 
-![image](https://github.com/dianeanalyst/Excel-Project-on-US-Superstore-Data/assets/120665115/0d1df8a0-cc89-4dae-96b7-f1bc1a3d991e)
+![image](https://github.com/dianeanalyst/Excel-Project-on-US-Superstore-Data/assets/120665115/c6701642-227d-4bbc-a035-07d66634fc3d)
 
 ![image](https://github.com/dianeanalyst/Excel-Project-on-US-Superstore-Data/assets/120665115/3b4b441b-701e-4fee-8149-a4b7335c1fd2)
 
